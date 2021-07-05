@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Nihaaal
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Html and css 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning HTML, CSS and Javascript 
+
 
 <!---
 Nihaaal/Nihaaal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
